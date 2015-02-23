@@ -1,0 +1,11 @@
+a=0
+while a<100
+if (a%2)==0
+puts a
+a+=1
+end
+b=0
+until b<100
+if not (b%2)==0
+b+=1
+end
